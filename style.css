@@ -1,0 +1,56 @@
+
+body {
+    
+    min-height: 80vh;
+    background:url("fondo.jpg");
+    background-position: center;
+    margin: 0 auto;
+    
+}
+
+.titulo{
+    text-align: center;
+    width: 100%;
+    margin-top: auto;
+    
+}
+.izquierda {
+    
+    font: 170% sans-serif;  
+    border-left: 500px;
+    width: 50%;
+    height: auto;
+    background-position: left;
+}
+
+.Principal{
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    min-height: 80vh;
+}
+.derecha{
+    font: 170% sans-serif;
+    background-position: right;
+    background-size: cover;
+    width: 50%;
+    height: auto;
+    
+}
+
+#P2{
+    display: flex;
+    background-color: white;
+    
+}
+.d-grid{
+    
+    width: 100%;
+    
+}
+
+#Principal{
+    margin-left: 20%;
+    margin-right: 20%;
+}
