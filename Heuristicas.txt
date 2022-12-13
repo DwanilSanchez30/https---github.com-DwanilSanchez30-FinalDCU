@@ -1,0 +1,30 @@
+HEURISTICAS
+
+1. Visibilidad de status del sistema
+   NO (al ser tan simple el sistema no avisa nada al usuario)
+
+2. Comparación entre el sistema y el mundo real
+   SI (la estructura y visibilidad del formulario a rellenar es la misma que la de un formulario de la vida real)
+
+3. Control y libertad del usuario
+   
+4. Consistencia y estándares
+   SI (sigue los estándares en colores, organización y estructura del diseño de formularios web)
+
+5. Prevención de errores
+   SI (para evitar el envío de un formulario incompleto, se controla y avisa al usuario que rellene todos los campos)
+
+6. Reconocer en vez de recordar
+   SI (la interfaz de la app es similar a su representación en el mundo real)
+
+7. Flexibilidad y eficiencia de uso
+   NO (al ser tan simple la app no hay necesidad de integrar atajos o shortcuts)
+
+8. Diseño estético y minimalista
+   SI (el diseño está todo lo simplificado posible, sin sobrecargar al usuario)
+
+9. Ayuda a los usuarios a reconocer, diagnosticar y recuperación de errores
+   SI (se aplica al avisarle al usuario que no ha llenado algún campo)
+
+10. Ayuda y documentación
+   NO (al no ser compleja la app se entiende que no es necesaria documentación extra, por lo que no existe la misma)
